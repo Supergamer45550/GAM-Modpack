@@ -8,6 +8,7 @@
 - Applied Energistics 2 Wireless Terminals 
 - Applied Mekanistics 
 - Architectury API 
+- Admentments 
 
 -- B --
 - Balm
@@ -22,12 +23,18 @@
 - Create Deco
 - Create: Steam 'n' Rails 
 - Curious API 
+- Cosmetic Armor
+- Citadel
 
 -- E --
 - Embeddium
 
 -- F --
 - Farmer's Delight
+- Fast Leaf Decay
+
+-- I --
+- Iron Chests
 
 -- J --
 - Jade
@@ -38,14 +45,21 @@
 - Mekanism
 - Mekanism Generators
 - Mekanism Tools
-- Sophisticated Backpacks
-- Sophisticated Core
+- Mystical Agriculture
+
+-- N --
+- Nether's Delight
 
 -- S --
 - Supplementaries
+- Storage Drawers
+- Security Craft
+- Sophisticated Backpacks
+- Sophisticated Core
 
 -- T --
 - Tinkers Construct
+- Toast Control
 
 -- W --
 - Waystones
