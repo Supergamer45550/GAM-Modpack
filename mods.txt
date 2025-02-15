@@ -1,0 +1,59 @@
+
+
+-- A --
+- AE2 Import Export Card
+- Alex's Mobs
+- AppleSkin
+- Applied Energistics 2
+- Applied Energistics 2 Wireless Terminals 
+- Applied Mekanistics 
+- Architectury API 
+
+-- B --
+- Balm
+- Biomes O' Plenty
+
+-- C --
+- Cloth Config API 
+- Clumps
+- CraftTweaker
+- Create
+- Create Crafts & Additions 
+- Create Deco
+- Create: Steam 'n' Rails 
+- Curious API 
+
+-- E --
+- Embeddium
+
+-- F --
+- Farmer's Delight
+
+-- J --
+Just Enough Items
+
+-- M --
+- Mantle
+- Mekanism
+- Mekanism Generators
+- Mekanism Tools
+- Sophisticated Backpacks
+- Sophisticated Core
+
+-- S --
+- Supplementaries
+
+-- T --
+- Tinkers Construct
+
+-- W --
+- Waystones
+
+
+New Mods:
+- AppleSkin
+- Clumps
+- Embeddium
+- Supplementaries
+- Alex's Mobs
+- Biomes O' Plenty
