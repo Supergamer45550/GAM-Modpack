@@ -30,7 +30,8 @@
 - Farmer's Delight
 
 -- J --
-Just Enough Items
+- Jade
+- Just Enough Items
 
 -- M --
 - Mantle
@@ -51,9 +52,14 @@ Just Enough Items
 
 
 New Mods:
-- AppleSkin
-- Clumps
-- Embeddium
-- Supplementaries
-- Alex's Mobs
-- Biomes O' Plenty
+- Jade
+- Cosmetic Armor
+- Toast Control
+- Storage Drawers
+- Fast Leaf Decay
+- Iron Chests
+- Security Craft
+- Mystical Agriculture
+- Nether's Delight
+- Admentments 
+- Citadel
