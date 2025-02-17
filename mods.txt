@@ -32,6 +32,12 @@
 -- F --
 - Farmer's Delight
 - Fast Leaf Decay
+- FTB Chunks
+- FTB Essentials
+- FTB Library
+- FTB Quests
+- FTB Teams 
+- FTB Ultimine
 
 -- I --
 - Iron Chests
@@ -66,14 +72,9 @@
 
 
 New Mods:
-- Jade
-- Cosmetic Armor
-- Toast Control
-- Storage Drawers
-- Fast Leaf Decay
-- Iron Chests
-- Security Craft
-- Mystical Agriculture
-- Nether's Delight
-- Admentments 
-- Citadel
+- FTB Chunks
+- FTB Essentials
+- FTB Library
+- FTB Quests
+- FTB Teams 
+- FTB Ultimine
