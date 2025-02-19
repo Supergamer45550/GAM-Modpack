@@ -8,6 +8,7 @@ This Modpack
 
 
 ## ✨ Mods
+- This Modpack has 51 Mods
 - AE2 Import Export Card
 - Alex's Mobs
 - AppleSkin
