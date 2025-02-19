@@ -14,7 +14,6 @@ This is my new Minecraft Modpack with custom scripts and maybe custom mods
 This Modpack has Crafttweaker to make custom scripts and also may have custom Mods at some point 
 
 ## ✨ Mods
-- This Modpack has 51 Mods
 - AE2 Import Export Card
 - Alex's Mobs
 - AppleSkin
@@ -35,6 +34,7 @@ This Modpack has Crafttweaker to make custom scripts and also may have custom Mo
 - Curious API 
 - Cosmetic Armor
 - Citadel
+- CreateTweaker
 - Embeddium
 - Farmer's Delight
 - Fast Leaf Decay
