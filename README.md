@@ -1,11 +1,12 @@
 # GAM-Modpack
 This is my new Minecraft Modpack with custom scripts and maybe custom mods 
+
+
 ## About
-This Modpack 
 
 
-
-
+## 🔧 Technical Stuff
+This Modpack has Crafttweaker to make custom scripts and also may have custom Mods at some point 
 
 ## ✨ Mods
 - This Modpack has 51 Mods
