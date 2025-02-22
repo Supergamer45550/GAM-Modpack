@@ -35,29 +35,44 @@ This Modpack has Crafttweaker to make custom scripts and also may have custom Mo
 - Cosmetic Armor
 - Citadel
 - CreateTweaker
+- Controlling
+- Easy
 - Embeddium
 - Farmer's Delight
+- Falling Leaves
 - Fast Leaf Decay
+- Flux Networks
 - FTB Chunks
 - FTB Essentials
 - FTB Library
 - FTB Quests
 - FTB Teams 
 - FTB Ultimine
+- Handcrafted
 - Iron Chests
 - Jade
+- Jade Addons
 - Just Enough Items
 - Mantle
+- Macaw's Doors
+- Macaw's Windows
+- Macaw's Furniture
+- Macaw's Roofs
 - Mekanism
 - Mekanism Generators
 - Mekanism Tools
 - Mystical Agriculture
 - Nether's Delight
+- No Chat Reports
+- Ocean's Delight 
+- Pipez
 - Supplementaries
 - Storage Drawers
 - Security Craft
 - Sophisticated Backpacks
 - Sophisticated Core
+- Simple Voice Chat
+- Smarter Farmers
 - Tinkers Construct
 - Toast Control
 - Waystones
