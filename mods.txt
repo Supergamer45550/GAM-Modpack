@@ -26,13 +26,17 @@
 - Cosmetic Armor
 - Citadel
 - CreateTweaker
+- Controlling
 
 -- E --
+- Easy
 - Embeddium
 
 -- F --
 - Farmer's Delight
+- Falling Leaves
 - Fast Leaf Decay
+- Flux Networks
 - FTB Chunks
 - FTB Essentials
 - FTB Library
@@ -40,15 +44,23 @@
 - FTB Teams 
 - FTB Ultimine
 
+-- H --
+- Handcrafted
+
 -- I --
 - Iron Chests
 
 -- J --
 - Jade
+- Jade Addons
 - Just Enough Items
 
 -- M --
 - Mantle
+- Macaw's Doors
+- Macaw's Windows
+- Macaw's Furniture
+- Macaw's Roofs
 - Mekanism
 - Mekanism Generators
 - Mekanism Tools
@@ -56,6 +68,13 @@
 
 -- N --
 - Nether's Delight
+- No Chat Reports
+
+-- O --
+- Ocean's Delight 
+
+-- P --
+- Pipez
 
 -- S --
 - Supplementaries
@@ -63,6 +82,8 @@
 - Security Craft
 - Sophisticated Backpacks
 - Sophisticated Core
+- Simple Voice Chat
+- Smarter Farmers
 
 -- T --
 - Tinkers Construct
@@ -73,4 +94,18 @@
 
 
 New Mods:
-- CreateTweaker
+- Controlling
+- No Chat Reports
+- Handcrafted
+- Macaw's Doors
+- Simple Voice Chat
+- Macaw's Windows
+- Macaw's Furniture
+- Macaw's Roofs
+- Ocean's Delight 
+- Falling Leaves
+- Pipez
+- Jade Addons
+- Easy
+- Flux Networks
+- Smarter Farmers
