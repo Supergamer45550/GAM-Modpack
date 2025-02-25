@@ -1,7 +1,6 @@
 # GAM-Modpack
 This is my new Minecraft Modpack with custom scripts and maybe custom mods 
 
-
 ## About
 
 ## ⚡Version
@@ -53,15 +52,21 @@ This Modpack has Crafttweaker to make custom scripts and also may have custom Mo
 - Jade
 - Jade Addons
 - Just Enough Items
+- Just Enough Ressources
+- Just Enough Professions
+- Lootr
 - Mantle
 - Macaw's Doors
 - Macaw's Windows
 - Macaw's Furniture
 - Macaw's Roofs
+- Macaw's Fences and Walls
 - Mekanism
 - Mekanism Generators
 - Mekanism Tools
 - Mystical Agriculture
+- Mystical Agradditions
+- Mouse Tweaks
 - Nether's Delight
 - No Chat Reports
 - Ocean's Delight 
@@ -75,4 +80,6 @@ This Modpack has Crafttweaker to make custom scripts and also may have custom Mo
 - Smarter Farmers
 - Tinkers Construct
 - Toast Control
+- Tips
+- Villager Names
 - Waystones

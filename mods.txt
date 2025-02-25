@@ -54,6 +54,11 @@
 - Jade
 - Jade Addons
 - Just Enough Items
+- Just Enough Ressources
+- Just Enough Professions
+
+-- L --
+- Lootr
 
 -- M --
 - Mantle
@@ -61,10 +66,13 @@
 - Macaw's Windows
 - Macaw's Furniture
 - Macaw's Roofs
+- Macaw's Fences and Walls
 - Mekanism
 - Mekanism Generators
 - Mekanism Tools
 - Mystical Agriculture
+- Mystical Agradditions
+- Mouse Tweaks
 
 -- N --
 - Nether's Delight
@@ -88,24 +96,21 @@
 -- T --
 - Tinkers Construct
 - Toast Control
+- Tips
+
+-- V --
+- Villager Names
 
 -- W --
 - Waystones
 
 
 New Mods:
-- Controlling
-- No Chat Reports
-- Handcrafted
-- Macaw's Doors
-- Simple Voice Chat
-- Macaw's Windows
-- Macaw's Furniture
-- Macaw's Roofs
-- Ocean's Delight 
-- Falling Leaves
-- Pipez
-- Jade Addons
-- Easy
-- Flux Networks
-- Smarter Farmers
+- Just Enough Ressources
+- Just Enough Professions
+- Macaw's Fences and Walls
+- Tips
+- Villager Names
+- Mystical Agradditions
+- Mouse Tweaks
+- Lootr
